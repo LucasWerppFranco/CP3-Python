@@ -21,10 +21,9 @@ Nesse Checkpoint foram realizados três exercícios envolvendo estruturas de rep
 
 ## Sumário
 
-- [Exercício-1](Exercícios/Exercício-1.ino)
+- [Exercício-1](Exercício-1/Cadastro_AnaliseNotas.py)
 - [Exercício-2](Exercícios/Exercício-2.ino)
 - [Exercício-3](Exercícios/Exercício-3.ino)
-- [Exercício-4](Exercícios/Exercício-4.ino)
 
 ---
 
