@@ -23,7 +23,7 @@ Nesse Checkpoint foram realizados três exercícios envolvendo estruturas de rep
 
 - [Exercício-1](Exercício-1/Cadastro_AnaliseNotas.py)
 - [Exercício-2](Exercício-2/Matriz_de_Temperaturas.py)
-- [Exercício-3](Exercícios/Exercício-3.ino)
+- [Exercício-3](Exercicio-3/Estruturas_de_Repetição_Vetores_e_Matrizes.py)
 
 ---
 
